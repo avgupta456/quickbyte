@@ -1,0 +1,6 @@
+[submodule "quickbyte_backend"]
+	path = quickbyte_backend
+	url = https://github.com/avgupta456/quickbyte_backend
+[submodule "quickbyte_frontend"]
+	path = quickbyte_frontend
+	url = https://github.com/avgupta456/quickbyte_frontend
