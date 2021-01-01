@@ -4,3 +4,6 @@
 [submodule "quickbyte_frontend"]
 	path = quickbyte_frontend
 	url = https://github.com/avgupta456/quickbyte_frontend
+[submodule "quickbyte_landing"]
+	path = quickbyte_landing
+	url = https://github.com/avgupta456/quickbyte_landing.git
